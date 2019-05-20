@@ -1,0 +1,3 @@
+x=input("Enter your age:")
+y=input("Enter your Name:")
+printsep=":",("Hello", y , "your age is",x,sep=":")
